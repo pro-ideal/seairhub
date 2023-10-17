@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/seairhub/static/css/main.3b90e461.css",
+    "main.js": "/seairhub/static/js/main.ffcf3497.js",
+    "index.html": "/seairhub/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.3b90e461.css",
+    "static/js/main.ffcf3497.js"
+  ]
+}

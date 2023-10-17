@@ -1,0 +1,4286 @@
+{
+  "block": {
+    "5139ddef-b25b-4877-9b50-aa9c3fed0e71": {
+      "value": {
+        "id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "version": 1115,
+        "type": "page",
+        "properties": {
+          "title": [
+            [
+              "여기G 글로벌 타깃 마케팅&바이어 발굴 매칭 솔루션"
+            ]
+          ]
+        },
+        "content": [
+          "35421b54-f5b5-4425-8958-84a2749d384b",
+          "4d4f59e2-a097-45a3-8dbd-92efbd853589",
+          "e9c5396a-a821-4d0b-91df-b4c33d57a5ad",
+          "1b52e527-6234-4e56-ba77-e6732edb4dab",
+          "99f27090-7a56-404f-9624-c1d55ec7f07a",
+          "de12249d-3e95-47bc-8b48-aaaa09cf0ffa",
+          "28f5b732-1e4e-44cc-b8c3-604e835694b1",
+          "7f3266d1-2e47-4a54-98ed-9ed9842deaff",
+          "dd059831-95dc-4824-85bf-28baf6e773ac",
+          "9b74d506-80fa-436a-b162-f5907a4c14a8",
+          "59ce4c56-c7bb-4dea-881c-2a785d8cb945",
+          "f8ed1f6a-1765-48e3-93c3-bd36ba8c1f40",
+          "c9a8db32-24b6-4004-8e1f-ea365a203173",
+          "95bf71d4-6575-4e34-bf15-8e12011ca8ef",
+          "f90c5203-ea5c-42b4-bb12-deb48a24c678",
+          "056f2926-426f-4775-9495-aaacf5591af4",
+          "3306a9b9-468d-434a-bd34-f5707da76acc",
+          "09b0b720-f705-4145-b712-5c212200b7c2",
+          "1d044af8-de25-408d-839b-e3bb2e15a234",
+          "6cb9e764-a49a-4525-9107-c4fed52bcf76",
+          "329c313e-a672-48f6-be38-058beceb6ee9",
+          "1384e49a-d5af-4783-aef1-47d09695e49b",
+          "4500bc91-a014-4aa6-a1b5-f28c5fa4c57f",
+          "569c4c58-0b4b-47c5-9aba-937dcfee6b1f",
+          "afa09ad1-2d5b-428b-abf3-440bc65abfd6",
+          "4233e7bb-49da-4a6e-bcba-234b2923e442",
+          "8626fb69-d75f-4f28-8d5b-318b98155949",
+          "a84b90ff-a1dd-4d90-af30-f83d7a017e14",
+          "0ea672e4-ccc9-4ec8-809b-176c3ec0e29f",
+          "c75f4ded-aab3-40d2-9304-e51a5be11f74",
+          "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339",
+          "dab60109-8c02-4685-a5d3-540cf3b5b54a",
+          "bc46fc00-fd07-4206-89a1-c6a72ae2e7c4",
+          "5ac93249-43a2-40ff-8713-4265bae09647",
+          "6e1353bf-aeff-4cd7-8809-86fce6740875",
+          "c6477b27-df3e-48a5-b92c-aa28d27d6336",
+          "c2906573-e9be-42f7-b737-925434244ff6",
+          "b25d666b-c5a4-40c7-820a-9e40002636c1",
+          "dc860ab1-ad13-4150-af78-584518f5143d",
+          "2f3c593f-b6c6-4d91-9e90-8a969d8a7c9b",
+          "e3dcedfa-2ae9-402c-8dd9-e9b59f6fb86b",
+          "7e1ce637-3cdc-469a-b864-68c35e12aed7",
+          "9b3b271d-67f7-4304-a808-2a5cb20485ac",
+          "e20bc6b4-29f3-4f1c-aa82-ec80c1347a08",
+          "0d8e29d8-7043-42c2-b18a-ca95f768ec0d",
+          "fc35485b-3604-43b0-a466-6dc4bd6e496c"
+        ],
+        "format": {
+          "page_icon": "🌐",
+          "page_cover": "https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif",
+          "page_full_width": true,
+          "copied_from_pointer": {
+            "id": "bc4b48e6-5ad9-4b7f-8316-cff97e1c61c5",
+            "table": "block",
+            "spaceId": "e12b42ac-4e54-476f-a4f5-7d6bdb1e61e2"
+          },
+          "page_cover_position": 0.5
+        },
+        "permissions": [
+          {
+            "role": "editor",
+            "type": "user_permission",
+            "user_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0"
+          },
+          {
+            "role": "reader",
+            "type": "public_permission",
+            "added_timestamp": 1697085152397
+          }
+        ],
+        "created_time": 1697078826626,
+        "last_edited_time": 1697186225084,
+        "parent_id": "d6022a67-833c-484f-9dc5-d2e548974851",
+        "parent_table": "space",
+        "alive": true,
+        "copied_from": "bc4b48e6-5ad9-4b7f-8316-cff97e1c61c5",
+        "file_ids": [
+          "c21b9c27-734f-4ec2-b935-3e8df0a154a6",
+          "891bf080-2b11-43c1-9a2c-15fe0097bee4"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "35421b54-f5b5-4425-8958-84a2749d384b": {
+      "value": {
+        "id": "35421b54-f5b5-4425-8958-84a2749d384b",
+        "version": 9,
+        "type": "divider",
+        "created_time": 1697078969376,
+        "last_edited_time": 1697083753960,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "4d4f59e2-a097-45a3-8dbd-92efbd853589": {
+      "value": {
+        "id": "4d4f59e2-a097-45a3-8dbd-92efbd853589",
+        "version": 256,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "“한 명의 바이어가 기업의 운명을 바꿀 수 있습니다.”"
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "🧐",
+          "block_color": "gray_background"
+        },
+        "created_time": 1697172567040,
+        "last_edited_time": 1697172653570,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e9c5396a-a821-4d0b-91df-b4c33d57a5ad": {
+      "value": {
+        "id": "e9c5396a-a821-4d0b-91df-b4c33d57a5ad",
+        "version": 11,
+        "type": "column_list",
+        "content": [
+          "caf2a036-815c-4ccf-b91d-69abd1169d9f",
+          "d80af593-1694-4fff-9b5c-5f660b0d1f9f"
+        ],
+        "created_time": 1697083552052,
+        "last_edited_time": 1697083795168,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "caf2a036-815c-4ccf-b91d-69abd1169d9f": {
+      "value": {
+        "id": "caf2a036-815c-4ccf-b91d-69abd1169d9f",
+        "version": 37,
+        "type": "column",
+        "content": [
+          "24dcef2a-a806-455a-b87b-64dc2f015a55",
+          "c331c9ae-ceb6-4771-86b9-2d498ea42e53",
+          "46604ca2-5904-4b1a-9868-fe24079349bc"
+        ],
+        "format": {
+          "column_ratio": 0.625
+        },
+        "created_time": 1697083552052,
+        "last_edited_time": 1697172540498,
+        "parent_id": "e9c5396a-a821-4d0b-91df-b4c33d57a5ad",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "d80af593-1694-4fff-9b5c-5f660b0d1f9f": {
+      "value": {
+        "id": "d80af593-1694-4fff-9b5c-5f660b0d1f9f",
+        "version": 163,
+        "type": "column",
+        "content": [
+          "0c5ce89b-3633-44b9-8a61-8ab87ecb9be5",
+          "1bc31c0a-4952-4695-aa97-a7b6a5b55c4a",
+          "5d846751-6519-4594-9f9f-dbbd7c39f445",
+          "29b586eb-94d0-4b5d-a18f-3c225ba0c5e8"
+        ],
+        "format": {
+          "column_ratio": 1
+        },
+        "created_time": 1697083552052,
+        "last_edited_time": 1697086721681,
+        "parent_id": "e9c5396a-a821-4d0b-91df-b4c33d57a5ad",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "24dcef2a-a806-455a-b87b-64dc2f015a55": {
+      "value": {
+        "id": "24dcef2a-a806-455a-b87b-64dc2f015a55",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697083910520,
+        "last_edited_time": 1697083910521,
+        "parent_id": "caf2a036-815c-4ccf-b91d-69abd1169d9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0c5ce89b-3633-44b9-8a61-8ab87ecb9be5": {
+      "value": {
+        "id": "0c5ce89b-3633-44b9-8a61-8ab87ecb9be5",
+        "version": 20,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "\"이제 귀사는 글로벌 수출기업입니다.\"",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": false
+        },
+        "created_time": 1697084072191,
+        "last_edited_time": 1697085370053,
+        "parent_id": "d80af593-1694-4fff-9b5c-5f660b0d1f9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c331c9ae-ceb6-4771-86b9-2d498ea42e53": {
+      "value": {
+        "id": "c331c9ae-ceb6-4771-86b9-2d498ea42e53",
+        "version": 15,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "449.0KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/1bdd5628-4c59-47de-96f2-f3895295b38f/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 612,
+          "block_height": 408,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/1bdd5628-4c59-47de-96f2-f3895295b38f/Untitled.png",
+          "block_alignment": "left",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.6666666666666666,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697083971074,
+        "last_edited_time": 1697083996215,
+        "parent_id": "caf2a036-815c-4ccf-b91d-69abd1169d9f",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "1bdd5628-4c59-47de-96f2-f3895295b38f"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1bc31c0a-4952-4695-aa97-a7b6a5b55c4a": {
+      "value": {
+        "id": "1bc31c0a-4952-4695-aa97-a7b6a5b55c4a",
+        "version": 274,
+        "type": "quote",
+        "properties": {
+          "title": [
+            [
+              "\n\n\n"
+            ],
+            [
+              "해외로 부터 귀사에 관심있는 잠재바이어가 방문하는 새로운 경험을 하게 될 것입니다.\n회사의 해외영업부 활동을 수행하는 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              " 수출바이어 발굴 솔루션을 주목하십시오\n\n해외 전시회 참가보다 더 저비용으로 효율적인 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              " 수출바이어 발굴 솔루션이 회사의 \n운명을 바꿀 것입니다. 차별화 된 아이템을 보유하고 있으나 해외마케팅 방법, 시간, 비용등을 \n고민하고 있는 기업에게는시간과 비용을 앞당겨 줄 것입니다.\n\n",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "All for One",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "i"
+                ],
+                [
+                  "h",
+                  "red"
+                ]
+              ]
+            ],
+            [
+              "\n\n회원사 한 기업을 위한 1:1 맞춤형 글로벌 타깃마케팅&바이어발굴매칭서비스 입니다.\nSNS등 불특정 다수를 대상으로 하는 마케팅이 아닌 글로벌 타깃(표적)마케팅입니다.\n",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697083811377,
+        "last_edited_time": 1697162448820,
+        "parent_id": "d80af593-1694-4fff-9b5c-5f660b0d1f9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "46604ca2-5904-4b1a-9868-fe24079349bc": {
+      "value": {
+        "id": "46604ca2-5904-4b1a-9868-fe24079349bc",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697085614991,
+        "last_edited_time": 1697085614993,
+        "parent_id": "caf2a036-815c-4ccf-b91d-69abd1169d9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5d846751-6519-4594-9f9f-dbbd7c39f445": {
+      "value": {
+        "id": "5d846751-6519-4594-9f9f-dbbd7c39f445",
+        "version": 17,
+        "type": "text",
+        "created_time": 1697085410492,
+        "last_edited_time": 1697085896191,
+        "parent_id": "d80af593-1694-4fff-9b5c-5f660b0d1f9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "29b586eb-94d0-4b5d-a18f-3c225ba0c5e8": {
+      "value": {
+        "id": "29b586eb-94d0-4b5d-a18f-3c225ba0c5e8",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697085410492,
+        "last_edited_time": 1697085896191,
+        "parent_id": "d80af593-1694-4fff-9b5c-5f660b0d1f9f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1b52e527-6234-4e56-ba77-e6732edb4dab": {
+      "value": {
+        "id": "1b52e527-6234-4e56-ba77-e6732edb4dab",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "f1976527-86df-480d-af0c-dc603a13e8e8",
+          "e00ec229-50d1-471d-bf76-7028dea8eb90"
+        ],
+        "created_time": 1697085652819,
+        "last_edited_time": 1697085652819,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f1976527-86df-480d-af0c-dc603a13e8e8": {
+      "value": {
+        "id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "version": 93,
+        "type": "column",
+        "content": [
+          "032cdfc1-5d19-458a-bb17-5d8ed911eeda",
+          "917f3956-bbb2-40cd-8426-46aff38057e0",
+          "8901cd98-4023-41fd-ab04-68d9f1f719d6",
+          "4572ad91-433c-4544-96c9-4d3e536fc49a",
+          "e8171cdf-3e3c-495a-9796-abdad9bf66f7",
+          "e4fe2e24-8d2c-4feb-8954-8ca9b20d8abc",
+          "b54080bf-3607-4074-8554-e9af49fb24a1",
+          "5679694f-5aa6-4fab-97a4-67d20e65a93b",
+          "1aff2b1b-9123-48d6-831c-90a0080b938a",
+          "c570650d-d806-44f7-9ba2-013060b83bfc",
+          "bb0c0a5e-3377-407c-8887-6c185a1f191b"
+        ],
+        "format": {
+          "column_ratio": 1
+        },
+        "created_time": 1697085652819,
+        "last_edited_time": 1697088943055,
+        "parent_id": "1b52e527-6234-4e56-ba77-e6732edb4dab",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e00ec229-50d1-471d-bf76-7028dea8eb90": {
+      "value": {
+        "id": "e00ec229-50d1-471d-bf76-7028dea8eb90",
+        "version": 53,
+        "type": "column",
+        "content": [
+          "19f51391-7452-4f4a-b5ba-1d245840deac",
+          "308809bb-4531-4d84-80b9-cb19d19fe8f4",
+          "17c7a304-0c25-43f4-9eda-48a20e1717c6"
+        ],
+        "format": {
+          "column_ratio": 0.8749999999999996
+        },
+        "created_time": 1697085652819,
+        "last_edited_time": 1697087756684,
+        "parent_id": "1b52e527-6234-4e56-ba77-e6732edb4dab",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "032cdfc1-5d19-458a-bb17-5d8ed911eeda": {
+      "value": {
+        "id": "032cdfc1-5d19-458a-bb17-5d8ed911eeda",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697085668141,
+        "last_edited_time": 1697086157302,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "19f51391-7452-4f4a-b5ba-1d245840deac": {
+      "value": {
+        "id": "19f51391-7452-4f4a-b5ba-1d245840deac",
+        "version": 5,
+        "type": "text",
+        "created_time": 1697086135999,
+        "last_edited_time": 1697086137879,
+        "parent_id": "e00ec229-50d1-471d-bf76-7028dea8eb90",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "917f3956-bbb2-40cd-8426-46aff38057e0": {
+      "value": {
+        "id": "917f3956-bbb2-40cd-8426-46aff38057e0",
+        "version": 57,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "언택트시대 \n가장 혁신적인 “맞춤형 바이어발굴솔루션”",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697087656655,
+        "last_edited_time": 1697087747062,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "308809bb-4531-4d84-80b9-cb19d19fe8f4": {
+      "value": {
+        "id": "308809bb-4531-4d84-80b9-cb19d19fe8f4",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697086135999,
+        "last_edited_time": 1697086137879,
+        "parent_id": "e00ec229-50d1-471d-bf76-7028dea8eb90",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8901cd98-4023-41fd-ab04-68d9f1f719d6": {
+      "value": {
+        "id": "8901cd98-4023-41fd-ab04-68d9f1f719d6",
+        "version": 8,
+        "type": "text",
+        "created_time": 1697085668141,
+        "last_edited_time": 1697086160039,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "17c7a304-0c25-43f4-9eda-48a20e1717c6": {
+      "value": {
+        "id": "17c7a304-0c25-43f4-9eda-48a20e1717c6",
+        "version": 11,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "647.1KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/bdef2d1a-d187-43ad-ab77-1bb5f9067c0b/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 706,
+          "block_height": 447,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/bdef2d1a-d187-43ad-ab77-1bb5f9067c0b/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 0.6331444759206799,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697086125427,
+        "last_edited_time": 1697086128691,
+        "parent_id": "e00ec229-50d1-471d-bf76-7028dea8eb90",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "bdef2d1a-d187-43ad-ab77-1bb5f9067c0b"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "4572ad91-433c-4544-96c9-4d3e536fc49a": {
+      "value": {
+        "id": "4572ad91-433c-4544-96c9-4d3e536fc49a",
+        "version": 11,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "빅데이터, 인공지능 기반의 최근 가장 혁신적인 바이어발굴매칭서비스입니다. ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697085668141,
+        "last_edited_time": 1697087142452,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e8171cdf-3e3c-495a-9796-abdad9bf66f7": {
+      "value": {
+        "id": "e8171cdf-3e3c-495a-9796-abdad9bf66f7",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697087133161,
+        "last_edited_time": 1697087133163,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e4fe2e24-8d2c-4feb-8954-8ca9b20d8abc": {
+      "value": {
+        "id": "e4fe2e24-8d2c-4feb-8954-8ca9b20d8abc",
+        "version": 67,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "회원사의 업종, 아이템과 관련있는 잠재바이어(기업)를 발굴해서 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697086180093,
+        "last_edited_time": 1697088940310,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b54080bf-3607-4074-8554-e9af49fb24a1": {
+      "value": {
+        "id": "b54080bf-3607-4074-8554-e9af49fb24a1",
+        "version": 7,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "해외 잠재 바이어 기업의 대표,임직원에 직접적으로 컨택해서 해외 마케팅을 수행합니다. ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697088940307,
+        "last_edited_time": 1697088943055,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5679694f-5aa6-4fab-97a4-67d20e65a93b": {
+      "value": {
+        "id": "5679694f-5aa6-4fab-97a4-67d20e65a93b",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697087155308,
+        "last_edited_time": 1697087155309,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1aff2b1b-9123-48d6-831c-90a0080b938a": {
+      "value": {
+        "id": "1aff2b1b-9123-48d6-831c-90a0080b938a",
+        "version": 7,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "관심있는 잠재 바이어가 회원사의 웹사이트를 방문하거나 직접 문의 메일이 옵니다. ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697086225236,
+        "last_edited_time": 1697086227214,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c570650d-d806-44f7-9ba2-013060b83bfc": {
+      "value": {
+        "id": "c570650d-d806-44f7-9ba2-013060b83bfc",
+        "version": 5,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "한번에 다수의 타깃잠재바이어에 회사와 제품을 홍보합니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697086227212,
+        "last_edited_time": 1697086227214,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "bb0c0a5e-3377-407c-8887-6c185a1f191b": {
+      "value": {
+        "id": "bb0c0a5e-3377-407c-8887-6c185a1f191b",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697085658337,
+        "last_edited_time": 1697085658338,
+        "parent_id": "f1976527-86df-480d-af0c-dc603a13e8e8",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "99f27090-7a56-404f-9624-c1d55ec7f07a": {
+      "value": {
+        "id": "99f27090-7a56-404f-9624-c1d55ec7f07a",
+        "version": 12,
+        "type": "text",
+        "created_time": 1697092156242,
+        "last_edited_time": 1697095919323,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "de12249d-3e95-47bc-8b48-aaaa09cf0ffa": {
+      "value": {
+        "id": "de12249d-3e95-47bc-8b48-aaaa09cf0ffa",
+        "version": 9,
+        "type": "text",
+        "created_time": 1697092156242,
+        "last_edited_time": 1697096028288,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "28f5b732-1e4e-44cc-b8c3-604e835694b1": {
+      "value": {
+        "id": "28f5b732-1e4e-44cc-b8c3-604e835694b1",
+        "version": 21,
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "“"
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "는 "
+            ],
+            [
+              "아르센바이어 발굴솔루션",
+              [
+                [
+                  "h",
+                  "yellow"
+                ]
+              ]
+            ],
+            [
+              " "
+            ],
+            [
+              "스튜디오",
+              [
+                [
+                  "h",
+                  "yellow"
+                ]
+              ]
+            ],
+            [
+              "와 함께하고 있습니다.”"
+            ]
+          ]
+        },
+        "created_time": 1697092156242,
+        "last_edited_time": 1697096329267,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "7f3266d1-2e47-4a54-98ed-9ed9842deaff": {
+      "value": {
+        "id": "7f3266d1-2e47-4a54-98ed-9ed9842deaff",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "7c23784d-6310-449b-9bdf-7f80b5f8efff",
+          "b9b0db88-cc80-43ea-8e51-50f181d62fe2"
+        ],
+        "created_time": 1697095947994,
+        "last_edited_time": 1697095947994,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "7c23784d-6310-449b-9bdf-7f80b5f8efff": {
+      "value": {
+        "id": "7c23784d-6310-449b-9bdf-7f80b5f8efff",
+        "version": 13,
+        "type": "column",
+        "content": [
+          "43a290cb-6184-43c3-9d14-ccead357aa14",
+          "92e2489e-5d26-424f-9f0d-ac85d917c6bf"
+        ],
+        "created_time": 1697095947994,
+        "last_edited_time": 1697173978659,
+        "parent_id": "7f3266d1-2e47-4a54-98ed-9ed9842deaff",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b9b0db88-cc80-43ea-8e51-50f181d62fe2": {
+      "value": {
+        "id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "version": 52,
+        "type": "column",
+        "content": [
+          "23f57f96-c66d-44a9-a6c4-47acebde5e16",
+          "64813ab1-71df-4bfb-a200-0b9caee658c1",
+          "84995a33-8513-477d-aa0c-f259c4510645",
+          "3c1afcba-6c28-4758-a81a-a310e90602b5",
+          "e7e76c61-8d21-4261-a421-a050d30fa436",
+          "35d086c2-3915-4a06-895c-b952e0b66be3",
+          "56a09085-8ee4-4e10-99dd-4d850b7a2512",
+          "24b74496-fd45-4be6-bbde-c4c6ce94df94",
+          "f8db2d94-2ed5-44d5-b01c-dc12b70a230a",
+          "06e4f3aa-56d1-40e3-a147-32d8d7e17c31",
+          "7dc3cab7-4a6e-465b-9981-010d409c37a3",
+          "dd337a6f-927c-4254-8549-08cf2d17ac04"
+        ],
+        "created_time": 1697095947994,
+        "last_edited_time": 1697096230725,
+        "parent_id": "7f3266d1-2e47-4a54-98ed-9ed9842deaff",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "43a290cb-6184-43c3-9d14-ccead357aa14": {
+      "value": {
+        "id": "43a290cb-6184-43c3-9d14-ccead357aa14",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697095952287,
+        "last_edited_time": 1697095952287,
+        "parent_id": "7c23784d-6310-449b-9bdf-7f80b5f8efff",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "23f57f96-c66d-44a9-a6c4-47acebde5e16": {
+      "value": {
+        "id": "23f57f96-c66d-44a9-a6c4-47acebde5e16",
+        "version": 5,
+        "type": "text",
+        "created_time": 1697095947988,
+        "last_edited_time": 1697095947994,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "92e2489e-5d26-424f-9f0d-ac85d917c6bf": {
+      "value": {
+        "id": "92e2489e-5d26-424f-9f0d-ac85d917c6bf",
+        "version": 11,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "240.0KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/da7b654f-6119-411d-bad3-f1fd3468a4b8/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 882,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/da7b654f-6119-411d-bad3-f1fd3468a4b8/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5578231292517006,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697173976494,
+        "last_edited_time": 1697173979933,
+        "parent_id": "7c23784d-6310-449b-9bdf-7f80b5f8efff",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "da7b654f-6119-411d-bad3-f1fd3468a4b8"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "64813ab1-71df-4bfb-a200-0b9caee658c1": {
+      "value": {
+        "id": "64813ab1-71df-4bfb-a200-0b9caee658c1",
+        "version": 317,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "■ "
+            ],
+            [
+              "해외바이어발굴 사례",
+              [
+                [
+                  "a",
+                  "https://blog.naver.com/quantum-marketing21"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": false
+        },
+        "created_time": 1697086285053,
+        "last_edited_time": 1697095975229,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "84995a33-8513-477d-aa0c-f259c4510645": {
+      "value": {
+        "id": "84995a33-8513-477d-aa0c-f259c4510645",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697096230724,
+        "last_edited_time": 1697096230725,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "3c1afcba-6c28-4758-a81a-a310e90602b5": {
+      "value": {
+        "id": "3c1afcba-6c28-4758-a81a-a310e90602b5",
+        "version": 46,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "해외바이어 발굴",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ],
+            [
+              "은 무역회사나 수출기업이 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697095976172,
+        "last_edited_time": 1697096263386,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e7e76c61-8d21-4261-a421-a050d30fa436": {
+      "value": {
+        "id": "e7e76c61-8d21-4261-a421-a050d30fa436",
+        "version": 5,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "해외시장에서 적합한 바이어를 찾아내는 프로세스를 의미합니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697096191972,
+        "last_edited_time": 1697096191974,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "35d086c2-3915-4a06-895c-b952e0b66be3": {
+      "value": {
+        "id": "35d086c2-3915-4a06-895c-b952e0b66be3",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697096194068,
+        "last_edited_time": 1697096194069,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "56a09085-8ee4-4e10-99dd-4d850b7a2512": {
+      "value": {
+        "id": "56a09085-8ee4-4e10-99dd-4d850b7a2512",
+        "version": 5,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              " 이를 통해 기업은 제품을 성공적으로 수출하고 글로벌 시장에 진출할 수 있습니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697096181092,
+        "last_edited_time": 1697096181094,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "24b74496-fd45-4be6-bbde-c4c6ce94df94": {
+      "value": {
+        "id": "24b74496-fd45-4be6-bbde-c4c6ce94df94",
+        "version": 31,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "블로그는 실제 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "해외바이어 발굴",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ],
+            [
+              " 사례에 대해 간단한 소개와 정보를 제공하는 공간입니다. ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697096196987,
+        "last_edited_time": 1697096309028,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f8db2d94-2ed5-44d5-b01c-dc12b70a230a": {
+      "value": {
+        "id": "f8db2d94-2ed5-44d5-b01c-dc12b70a230a",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697096224660,
+        "last_edited_time": 1697096224660,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "06e4f3aa-56d1-40e3-a147-32d8d7e17c31": {
+      "value": {
+        "id": "06e4f3aa-56d1-40e3-a147-32d8d7e17c31",
+        "version": 7,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "이 블로그에서는 다양한 산업 분야와 국가별로 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697096184091,
+        "last_edited_time": 1697096222534,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "7dc3cab7-4a6e-465b-9981-010d409c37a3": {
+      "value": {
+        "id": "7dc3cab7-4a6e-465b-9981-010d409c37a3",
+        "version": 40,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "성공적인",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "purple"
+                ]
+              ]
+            ],
+            [
+              " ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "해외바이어 발굴",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "blue"
+                ]
+              ]
+            ],
+            [
+              " 사례, 경험 등을 다룹니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "\n"
+            ]
+          ]
+        },
+        "created_time": 1697096222532,
+        "last_edited_time": 1697096302782,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "dd337a6f-927c-4254-8549-08cf2d17ac04": {
+      "value": {
+        "id": "dd337a6f-927c-4254-8549-08cf2d17ac04",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697096140548,
+        "last_edited_time": 1697096140549,
+        "parent_id": "b9b0db88-cc80-43ea-8e51-50f181d62fe2",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "dd059831-95dc-4824-85bf-28baf6e773ac": {
+      "value": {
+        "id": "dd059831-95dc-4824-85bf-28baf6e773ac",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697095910666,
+        "last_edited_time": 1697095925649,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "9b74d506-80fa-436a-b162-f5907a4c14a8": {
+      "value": {
+        "id": "9b74d506-80fa-436a-b162-f5907a4c14a8",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697092156242,
+        "last_edited_time": 1697092157440,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "59ce4c56-c7bb-4dea-881c-2a785d8cb945": {
+      "value": {
+        "id": "59ce4c56-c7bb-4dea-881c-2a785d8cb945",
+        "version": 94,
+        "type": "text",
+        "created_time": 1697091558581,
+        "last_edited_time": 1697092858479,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f8ed1f6a-1765-48e3-93c3-bd36ba8c1f40": {
+      "value": {
+        "id": "f8ed1f6a-1765-48e3-93c3-bd36ba8c1f40",
+        "version": 18,
+        "type": "text",
+        "created_time": 1697089469331,
+        "last_edited_time": 1697092858479,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c9a8db32-24b6-4004-8e1f-ea365a203173": {
+      "value": {
+        "id": "c9a8db32-24b6-4004-8e1f-ea365a203173",
+        "version": 9,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "82.6KB"
+            ]
+          ],
+          "title": [
+            [
+              "제목을 입력해주세요_-001 (42).png"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/470825e4-732e-46f7-b003-1d01301a5549/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(42).png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 2000,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/470825e4-732e-46f7-b003-1d01301a5549/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(42).png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.18,
+          "copied_from_pointer": {
+            "id": "4a59c386-4284-4e3a-8059-a0e9c8a9ba16",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          },
+          "block_preserve_scale": true
+        },
+        "created_time": 1697092652826,
+        "last_edited_time": 1697092858479,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "4a59c386-4284-4e3a-8059-a0e9c8a9ba16",
+        "file_ids": [
+          "470825e4-732e-46f7-b003-1d01301a5549"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "95bf71d4-6575-4e34-bf15-8e12011ca8ef": {
+      "value": {
+        "id": "95bf71d4-6575-4e34-bf15-8e12011ca8ef",
+        "version": 5,
+        "type": "text",
+        "created_time": 1697093482281,
+        "last_edited_time": 1697093483521,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f90c5203-ea5c-42b4-bb12-deb48a24c678": {
+      "value": {
+        "id": "f90c5203-ea5c-42b4-bb12-deb48a24c678",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697093482281,
+        "last_edited_time": 1697093483681,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "056f2926-426f-4775-9495-aaacf5591af4": {
+      "value": {
+        "id": "056f2926-426f-4775-9495-aaacf5591af4",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697093482281,
+        "last_edited_time": 1697093484097,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "3306a9b9-468d-434a-bd34-f5707da76acc": {
+      "value": {
+        "id": "3306a9b9-468d-434a-bd34-f5707da76acc",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697093482281,
+        "last_edited_time": 1697093484097,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "09b0b720-f705-4145-b712-5c212200b7c2": {
+      "value": {
+        "id": "09b0b720-f705-4145-b712-5c212200b7c2",
+        "version": 3,
+        "type": "divider",
+        "created_time": 1697089163307,
+        "last_edited_time": 1697089163310,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1d044af8-de25-408d-839b-e3bb2e15a234": {
+      "value": {
+        "id": "1d044af8-de25-408d-839b-e3bb2e15a234",
+        "version": 61,
+        "type": "text",
+        "created_time": 1697089171908,
+        "last_edited_time": 1697089466933,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6cb9e764-a49a-4525-9107-c4fed52bcf76": {
+      "value": {
+        "id": "6cb9e764-a49a-4525-9107-c4fed52bcf76",
+        "version": 23,
+        "type": "text",
+        "created_time": 1697089171908,
+        "last_edited_time": 1697090804931,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "329c313e-a672-48f6-be38-058beceb6ee9": {
+      "value": {
+        "id": "329c313e-a672-48f6-be38-058beceb6ee9",
+        "version": 14,
+        "type": "text",
+        "created_time": 1697089171908,
+        "last_edited_time": 1697090807834,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1384e49a-d5af-4783-aef1-47d09695e49b": {
+      "value": {
+        "id": "1384e49a-d5af-4783-aef1-47d09695e49b",
+        "version": 8,
+        "type": "text",
+        "created_time": 1697089171908,
+        "last_edited_time": 1697090808530,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "4500bc91-a014-4aa6-a1b5-f28c5fa4c57f": {
+      "value": {
+        "id": "4500bc91-a014-4aa6-a1b5-f28c5fa4c57f",
+        "version": 7,
+        "type": "header",
+        "properties": {
+          "title": [
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              " 회사소개"
+            ]
+          ]
+        },
+        "created_time": 1697089171908,
+        "last_edited_time": 1697090818200,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "569c4c58-0b4b-47c5-9aba-937dcfee6b1f": {
+      "value": {
+        "id": "569c4c58-0b4b-47c5-9aba-937dcfee6b1f",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+          "819a6fb9-04d6-4059-9bb5-2b4a1b0adf7b"
+        ],
+        "created_time": 1697090785691,
+        "last_edited_time": 1697090785691,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8c21256c-7bee-400d-a5e5-df4d33521b0a": {
+      "value": {
+        "id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "version": 32,
+        "type": "column",
+        "content": [
+          "2d5819eb-59af-45d8-9e52-7901881f608f",
+          "6e00b011-0990-486b-a909-6b727ece66aa",
+          "ba100c24-c790-4b80-b8b8-6fdd2fa36164",
+          "8eda8d43-4845-47af-afd6-19aa048ae0c4",
+          "96b7043d-8c39-471c-984c-593e53876339",
+          "a8e38102-f23c-46b4-9533-6f0a409e6a64",
+          "2945a1bc-7d9d-4069-973f-ab46e96ca527",
+          "56e309b7-35b7-49b5-8835-7e75f85f25e4",
+          "0b1f662c-9d6b-4658-8227-07ef9e8eb21c",
+          "a010dd06-eaf5-468d-aa7b-19c756514c46",
+          "3dd7e9cb-2df3-48fd-ab38-6ffc365eeaa1",
+          "c0cb0134-289c-4c03-aca7-c995cd7ef84d",
+          "826bd2c7-682c-41ca-a9eb-c13e305c350e",
+          "8f32aad0-ba5a-4c36-ba4d-ff9a82ccdd14"
+        ],
+        "created_time": 1697090785691,
+        "last_edited_time": 1697094082094,
+        "parent_id": "569c4c58-0b4b-47c5-9aba-937dcfee6b1f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "819a6fb9-04d6-4059-9bb5-2b4a1b0adf7b": {
+      "value": {
+        "id": "819a6fb9-04d6-4059-9bb5-2b4a1b0adf7b",
+        "version": 5,
+        "type": "column",
+        "content": [
+          "c2b03bf0-6732-4a5f-b1cd-f0cdcff36a2a",
+          "e2d3159a-5d3f-41e6-9ce0-708fb966959b"
+        ],
+        "created_time": 1697090785691,
+        "last_edited_time": 1697090788403,
+        "parent_id": "569c4c58-0b4b-47c5-9aba-937dcfee6b1f",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "2d5819eb-59af-45d8-9e52-7901881f608f": {
+      "value": {
+        "id": "2d5819eb-59af-45d8-9e52-7901881f608f",
+        "version": 9,
+        "type": "text",
+        "created_time": 1697089370643,
+        "last_edited_time": 1697090799202,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c2b03bf0-6732-4a5f-b1cd-f0cdcff36a2a": {
+      "value": {
+        "id": "c2b03bf0-6732-4a5f-b1cd-f0cdcff36a2a",
+        "version": 5,
+        "type": "text",
+        "created_time": 1697090785687,
+        "last_edited_time": 1697090785691,
+        "parent_id": "819a6fb9-04d6-4059-9bb5-2b4a1b0adf7b",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6e00b011-0990-486b-a909-6b727ece66aa": {
+      "value": {
+        "id": "6e00b011-0990-486b-a909-6b727ece66aa",
+        "version": 11,
+        "type": "text",
+        "created_time": 1697089370643,
+        "last_edited_time": 1697090826602,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e2d3159a-5d3f-41e6-9ce0-708fb966959b": {
+      "value": {
+        "id": "e2d3159a-5d3f-41e6-9ce0-708fb966959b",
+        "version": 20,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "413.4KB"
+            ]
+          ],
+          "title": [
+            [
+              "제목을 입력해주세요_-001 (43).png"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/0bf9be01-e4e0-4c20-9166-bcf49beaab07/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(43).png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1920,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/0bf9be01-e4e0-4c20-9166-bcf49beaab07/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(43).png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5625,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697090732136,
+        "last_edited_time": 1697090788403,
+        "parent_id": "819a6fb9-04d6-4059-9bb5-2b4a1b0adf7b",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "0bf9be01-e4e0-4c20-9166-bcf49beaab07"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "ba100c24-c790-4b80-b8b8-6fdd2fa36164": {
+      "value": {
+        "id": "ba100c24-c790-4b80-b8b8-6fdd2fa36164",
+        "version": 9,
+        "type": "text",
+        "created_time": 1697089370643,
+        "last_edited_time": 1697092781798,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8eda8d43-4845-47af-afd6-19aa048ae0c4": {
+      "value": {
+        "id": "8eda8d43-4845-47af-afd6-19aa048ae0c4",
+        "version": 5,
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "“"
+            ],
+            [
+              "무역 초보자도 쉽게 진행",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "할 수 있도록\n절차마다 "
+            ],
+            [
+              "적절한 서비스를 제공",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "하고 있습니다.”"
+            ]
+          ]
+        },
+        "created_time": 1697089370643,
+        "last_edited_time": 1697092781798,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "96b7043d-8c39-471c-984c-593e53876339": {
+      "value": {
+        "id": "96b7043d-8c39-471c-984c-593e53876339",
+        "version": 3,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "29f2643a-7d50-4529-8305-b4b7fbe495c5",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800159,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "29f2643a-7d50-4529-8305-b4b7fbe495c5",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "a8e38102-f23c-46b4-9533-6f0a409e6a64": {
+      "value": {
+        "id": "a8e38102-f23c-46b4-9533-6f0a409e6a64",
+        "version": 3,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "복잡한 무역업무 이젠 여기G애서 쉽고 빠르게 해결하세요.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "1417d2fa-aa67-4459-8cf0-88d9f0d5703a",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800159,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1417d2fa-aa67-4459-8cf0-88d9f0d5703a",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "2945a1bc-7d9d-4069-973f-ab46e96ca527": {
+      "value": {
+        "id": "2945a1bc-7d9d-4069-973f-ab46e96ca527",
+        "version": 3,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "전문가, 프로세서, 판로구축 어떤 고민도 하실 필요 없습니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "8c4e4af9-deba-493f-b85e-0df68bfeeee1",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800160,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "8c4e4af9-deba-493f-b85e-0df68bfeeee1",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "56e309b7-35b7-49b5-8835-7e75f85f25e4": {
+      "value": {
+        "id": "56e309b7-35b7-49b5-8835-7e75f85f25e4",
+        "version": 3,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "f2b70985-f24a-4e64-9327-a1d1f6363270",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800160,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "f2b70985-f24a-4e64-9327-a1d1f6363270",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0b1f662c-9d6b-4658-8227-07ef9e8eb21c": {
+      "value": {
+        "id": "0b1f662c-9d6b-4658-8227-07ef9e8eb21c",
+        "version": 5,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "씨에어허브는 무역절차를 모르는 기업도 매뉴얼대로 진행하면 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "bebd8ceb-c6e6-4a8b-b2c8-32b3f17138dd",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800160,
+        "last_edited_time": 1697094042459,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "bebd8ceb-c6e6-4a8b-b2c8-32b3f17138dd",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "a010dd06-eaf5-468d-aa7b-19c756514c46": {
+      "value": {
+        "id": "a010dd06-eaf5-468d-aa7b-19c756514c46",
+        "version": 3,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "성공적인 수출입 물류를 할 수 있도록여기G 플랫폼을 개발하였습니다.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "b1368010-d049-4d6d-8cb5-0705936b56f0",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800160,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "b1368010-d049-4d6d-8cb5-0705936b56f0",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "3dd7e9cb-2df3-48fd-ab38-6ffc365eeaa1": {
+      "value": {
+        "id": "3dd7e9cb-2df3-48fd-ab38-6ffc365eeaa1",
+        "version": 3,
+        "type": "text",
+        "format": {
+          "copied_from_pointer": {
+            "id": "1c31f78a-2082-4169-9d04-a26ce8296c94",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800161,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "1c31f78a-2082-4169-9d04-a26ce8296c94",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c0cb0134-289c-4c03-aca7-c995cd7ef84d": {
+      "value": {
+        "id": "c0cb0134-289c-4c03-aca7-c995cd7ef84d",
+        "version": 3,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "여기G 플랫폼",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/"
+                ]
+              ]
+            ],
+            [
+              "은 수출입 기업을 비롯하여 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "59ed58a6-e5a8-46ed-81f9-be1a4c1f7e4b",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800161,
+        "last_edited_time": 1697090800166,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "59ed58a6-e5a8-46ed-81f9-be1a4c1f7e4b",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "826bd2c7-682c-41ca-a9eb-c13e305c350e": {
+      "value": {
+        "id": "826bd2c7-682c-41ca-a9eb-c13e305c350e",
+        "version": 9,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "물류주선기업, 해외바이어, 물류유관업체가 모두 집결하여 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "copied_from_pointer": {
+            "id": "20101448-90aa-4679-9d47-5a978016c23d",
+            "table": "block",
+            "spaceId": "d6022a67-833c-484f-9dc5-d2e548974851"
+          }
+        },
+        "created_time": 1697090800161,
+        "last_edited_time": 1697094080303,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "copied_from": "20101448-90aa-4679-9d47-5a978016c23d",
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8f32aad0-ba5a-4c36-ba4d-ff9a82ccdd14": {
+      "value": {
+        "id": "8f32aad0-ba5a-4c36-ba4d-ff9a82ccdd14",
+        "version": 7,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "물류절차를자동화하고 최적의 업무프로세스를 제공하는",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "무역산업의 One-Stop 솔루션",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "red"
+                ]
+              ]
+            ],
+            [
+              "입니다!",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697094080301,
+        "last_edited_time": 1697094082094,
+        "parent_id": "8c21256c-7bee-400d-a5e5-df4d33521b0a",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "afa09ad1-2d5b-428b-abf3-440bc65abfd6": {
+      "value": {
+        "id": "afa09ad1-2d5b-428b-abf3-440bc65abfd6",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "0e4146e3-c3ed-4dad-8d95-b0f724f63945",
+          "f8d34265-a2b5-4a46-8bf3-eaa4e5899429"
+        ],
+        "created_time": 1697090757805,
+        "last_edited_time": 1697090757805,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0e4146e3-c3ed-4dad-8d95-b0f724f63945": {
+      "value": {
+        "id": "0e4146e3-c3ed-4dad-8d95-b0f724f63945",
+        "version": 29,
+        "type": "column",
+        "content": [
+          "2ed3b4f4-c81c-495b-a044-5282555f4a3d"
+        ],
+        "format": {
+          "column_ratio": 1
+        },
+        "created_time": 1697090757805,
+        "last_edited_time": 1697090796820,
+        "parent_id": "afa09ad1-2d5b-428b-abf3-440bc65abfd6",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f8d34265-a2b5-4a46-8bf3-eaa4e5899429": {
+      "value": {
+        "id": "f8d34265-a2b5-4a46-8bf3-eaa4e5899429",
+        "version": 9,
+        "type": "column",
+        "content": [
+          "1478b8fb-bceb-4cb5-89eb-17c398f5778e"
+        ],
+        "format": {
+          "column_ratio": 1
+        },
+        "created_time": 1697090757805,
+        "last_edited_time": 1697090793825,
+        "parent_id": "afa09ad1-2d5b-428b-abf3-440bc65abfd6",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "2ed3b4f4-c81c-495b-a044-5282555f4a3d": {
+      "value": {
+        "id": "2ed3b4f4-c81c-495b-a044-5282555f4a3d",
+        "version": 346,
+        "type": "text",
+        "created_time": 1697089257758,
+        "last_edited_time": 1697090829963,
+        "parent_id": "0e4146e3-c3ed-4dad-8d95-b0f724f63945",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1478b8fb-bceb-4cb5-89eb-17c398f5778e": {
+      "value": {
+        "id": "1478b8fb-bceb-4cb5-89eb-17c398f5778e",
+        "version": 5,
+        "type": "text",
+        "created_time": 1697090757800,
+        "last_edited_time": 1697090757805,
+        "parent_id": "f8d34265-a2b5-4a46-8bf3-eaa4e5899429",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "4233e7bb-49da-4a6e-bcba-234b2923e442": {
+      "value": {
+        "id": "4233e7bb-49da-4a6e-bcba-234b2923e442",
+        "version": 8,
+        "type": "text",
+        "created_time": 1697090725640,
+        "last_edited_time": 1697091401559,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8626fb69-d75f-4f28-8d5b-318b98155949": {
+      "value": {
+        "id": "8626fb69-d75f-4f28-8d5b-318b98155949",
+        "version": 29,
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "여기G ",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "서비스 이용하기"
+            ]
+          ]
+        },
+        "created_time": 1697090702063,
+        "last_edited_time": 1697092978523,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "a84b90ff-a1dd-4d90-af30-f83d7a017e14": {
+      "value": {
+        "id": "a84b90ff-a1dd-4d90-af30-f83d7a017e14",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697093298433,
+        "last_edited_time": 1697093334113,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0ea672e4-ccc9-4ec8-809b-176c3ec0e29f": {
+      "value": {
+        "id": "0ea672e4-ccc9-4ec8-809b-176c3ec0e29f",
+        "version": 116,
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "[무료 물류비 견적받기]",
+              [
+                [
+                  "a",
+                  "https://seairhub.com/dms/deliveryBidJoin"
+                ],
+                [
+                  "h",
+                  "red"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093298433,
+        "last_edited_time": 1697093496802,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c75f4ded-aab3-40d2-9304-e51a5be11f74": {
+      "value": {
+        "id": "c75f4ded-aab3-40d2-9304-e51a5be11f74",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697093402318,
+        "last_edited_time": 1697093402320,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339": {
+      "value": {
+        "id": "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339",
+        "version": 11,
+        "type": "column_list",
+        "content": [
+          "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+          "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+          "8b434b2c-6e78-4d95-9142-78bba354f831"
+        ],
+        "created_time": 1697092949650,
+        "last_edited_time": 1697093048327,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "dff0f9be-0b56-4666-90ea-d521c7c0a10c": {
+      "value": {
+        "id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "version": 19,
+        "type": "column",
+        "content": [
+          "1fab706d-ad8b-46c7-8ace-6922277e08cb",
+          "48ed6df1-c105-4b29-91b4-fa48c223dce8",
+          "02cd5bc0-d44b-459f-826f-e1ca84929654",
+          "66c61b85-bf09-45c0-b87d-d4bf0e30a62e",
+          "f9bb74b3-5eaf-40ed-8a6e-bdfa6160d3a5",
+          "9a359ec0-45fd-4527-9a89-6019336eb2c8",
+          "f2d2f54c-c8ea-4058-a3cf-b7d090ec60cc"
+        ],
+        "created_time": 1697092949650,
+        "last_edited_time": 1697093096602,
+        "parent_id": "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf": {
+      "value": {
+        "id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "version": 15,
+        "type": "column",
+        "content": [
+          "6d745e8d-cb24-4feb-8a21-19794c885bf4",
+          "faecb99e-80ab-4c47-a4ed-30d5eb6f4c12",
+          "1e0407f4-a106-4a05-aa21-a61b9513b483",
+          "3c665611-2820-461a-a56e-6f31c609c6cc",
+          "fe2e84b7-638d-4b52-b4f4-e01bafbcc770"
+        ],
+        "created_time": 1697092949650,
+        "last_edited_time": 1697093140667,
+        "parent_id": "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8b434b2c-6e78-4d95-9142-78bba354f831": {
+      "value": {
+        "id": "8b434b2c-6e78-4d95-9142-78bba354f831",
+        "version": 13,
+        "type": "column",
+        "content": [
+          "6b4e39ae-d220-4353-98fa-b7f54203b36a",
+          "5c25a39b-9ebd-4f45-8072-9e2fe7da8e75",
+          "5b47281a-60a6-496f-9f52-ca971f4056ae",
+          "b27d29f0-d698-4e57-8b07-a0e81cd91b7e"
+        ],
+        "created_time": 1697092949650,
+        "last_edited_time": 1697093164107,
+        "parent_id": "ffcc0ba1-886b-4b1f-8ba1-b47f38a9f339",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1fab706d-ad8b-46c7-8ace-6922277e08cb": {
+      "value": {
+        "id": "1fab706d-ad8b-46c7-8ace-6922277e08cb",
+        "version": 107,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "■ "
+            ],
+            [
+              "편의서비스",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "format": {
+          "toggleable": true
+        },
+        "created_time": 1697091670289,
+        "last_edited_time": 1697093115611,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6d745e8d-cb24-4feb-8a21-19794c885bf4": {
+      "value": {
+        "id": "6d745e8d-cb24-4feb-8a21-19794c885bf4",
+        "version": 114,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "■"
+            ],
+            [
+              " 스페셜클립",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697092949637,
+        "last_edited_time": 1697093172345,
+        "parent_id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6b4e39ae-d220-4353-98fa-b7f54203b36a": {
+      "value": {
+        "id": "6b4e39ae-d220-4353-98fa-b7f54203b36a",
+        "version": 37,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "■고객센터",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697092949642,
+        "last_edited_time": 1697093172345,
+        "parent_id": "8b434b2c-6e78-4d95-9142-78bba354f831",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "48ed6df1-c105-4b29-91b4-fa48c223dce8": {
+      "value": {
+        "id": "48ed6df1-c105-4b29-91b4-fa48c223dce8",
+        "version": 57,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "CBM 계산기",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/convenience"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093062911,
+        "last_edited_time": 1697093194024,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "faecb99e-80ab-4c47-a4ed-30d5eb6f4c12": {
+      "value": {
+        "id": "faecb99e-80ab-4c47-a4ed-30d5eb6f4c12",
+        "version": 36,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "튜토리얼",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/service"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093120798,
+        "last_edited_time": 1697093238192,
+        "parent_id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5c25a39b-9ebd-4f45-8072-9e2fe7da8e75": {
+      "value": {
+        "id": "5c25a39b-9ebd-4f45-8072-9e2fe7da8e75",
+        "version": 38,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "공지사항",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/servicecenter"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093150623,
+        "last_edited_time": 1697093266542,
+        "parent_id": "8b434b2c-6e78-4d95-9142-78bba354f831",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "02cd5bc0-d44b-459f-826f-e1ca84929654": {
+      "value": {
+        "id": "02cd5bc0-d44b-459f-826f-e1ca84929654",
+        "version": 40,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "HS코드검색",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/convenience/hscode#"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093086418,
+        "last_edited_time": 1697093199951,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "1e0407f4-a106-4a05-aa21-a61b9513b483": {
+      "value": {
+        "id": "1e0407f4-a106-4a05-aa21-a61b9513b483",
+        "version": 44,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "인터뷰영상",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/service/process"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093138417,
+        "last_edited_time": 1697093244687,
+        "parent_id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5b47281a-60a6-496f-9f52-ca971f4056ae": {
+      "value": {
+        "id": "5b47281a-60a6-496f-9f52-ca971f4056ae",
+        "version": 14,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "FAQ",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/servicecenter/faq"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093164105,
+        "last_edited_time": 1697093275399,
+        "parent_id": "8b434b2c-6e78-4d95-9142-78bba354f831",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "66c61b85-bf09-45c0-b87d-d4bf0e30a62e": {
+      "value": {
+        "id": "66c61b85-bf09-45c0-b87d-d4bf0e30a62e",
+        "version": 56,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "관부가세계산기",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/convenience/vat"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093091265,
+        "last_edited_time": 1697093215041,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "3c665611-2820-461a-a56e-6f31c609c6cc": {
+      "value": {
+        "id": "3c665611-2820-461a-a56e-6f31c609c6cc",
+        "version": 60,
+        "type": "text",
+        "created_time": 1697093140665,
+        "last_edited_time": 1697093144528,
+        "parent_id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b27d29f0-d698-4e57-8b07-a0e81cd91b7e": {
+      "value": {
+        "id": "b27d29f0-d698-4e57-8b07-a0e81cd91b7e",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697093149231,
+        "last_edited_time": 1697093149231,
+        "parent_id": "8b434b2c-6e78-4d95-9142-78bba354f831",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f9bb74b3-5eaf-40ed-8a6e-bdfa6160d3a5": {
+      "value": {
+        "id": "f9bb74b3-5eaf-40ed-8a6e-bdfa6160d3a5",
+        "version": 28,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "포워더",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/convenience/list/forwarder"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093095050,
+        "last_edited_time": 1697093222407,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "fe2e84b7-638d-4b52-b4f4-e01bafbcc770": {
+      "value": {
+        "id": "fe2e84b7-638d-4b52-b4f4-e01bafbcc770",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697093119577,
+        "last_edited_time": 1697093119578,
+        "parent_id": "0e3bb150-ce00-4f85-845c-a7dc97c7c7bf",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "9a359ec0-45fd-4527-9a89-6019336eb2c8": {
+      "value": {
+        "id": "9a359ec0-45fd-4527-9a89-6019336eb2c8",
+        "version": 42,
+        "type": "bulleted_list",
+        "properties": {
+          "title": [
+            [
+              "창고·포장사",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "a",
+                  "https://seairhub.com/convenience/list/support"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697093096601,
+        "last_edited_time": 1697093228142,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "f2d2f54c-c8ea-4058-a3cf-b7d090ec60cc": {
+      "value": {
+        "id": "f2d2f54c-c8ea-4058-a3cf-b7d090ec60cc",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697093061627,
+        "last_edited_time": 1697093061627,
+        "parent_id": "dff0f9be-0b56-4666-90ea-d521c7c0a10c",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "dab60109-8c02-4685-a5d3-540cf3b5b54a": {
+      "value": {
+        "id": "dab60109-8c02-4685-a5d3-540cf3b5b54a",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697091670289,
+        "last_edited_time": 1697091670857,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "bc46fc00-fd07-4206-89a1-c6a72ae2e7c4": {
+      "value": {
+        "id": "bc46fc00-fd07-4206-89a1-c6a72ae2e7c4",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697091670289,
+        "last_edited_time": 1697091671017,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5ac93249-43a2-40ff-8713-4265bae09647": {
+      "value": {
+        "id": "5ac93249-43a2-40ff-8713-4265bae09647",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697091670289,
+        "last_edited_time": 1697091672081,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6e1353bf-aeff-4cd7-8809-86fce6740875": {
+      "value": {
+        "id": "6e1353bf-aeff-4cd7-8809-86fce6740875",
+        "version": 84,
+        "type": "sub_sub_header",
+        "properties": {
+          "title": [
+            [
+              "■",
+              [
+                [
+                  "h",
+                  "default"
+                ]
+              ]
+            ],
+            [
+              " 여기G ",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "후기영상",
+              [
+                [
+                  "h",
+                  "default"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697086285053,
+        "last_edited_time": 1697093568410,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c6477b27-df3e-48a5-b92c-aa28d27d6336": {
+      "value": {
+        "id": "c6477b27-df3e-48a5-b92c-aa28d27d6336",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "a0a1d4bf-c0bb-4523-8f37-1d812fa2bb13",
+          "ab8bce4b-8b49-4f08-a155-41e6c9ca5f5b"
+        ],
+        "created_time": 1697089593055,
+        "last_edited_time": 1697089593055,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "a0a1d4bf-c0bb-4523-8f37-1d812fa2bb13": {
+      "value": {
+        "id": "a0a1d4bf-c0bb-4523-8f37-1d812fa2bb13",
+        "version": 8,
+        "type": "column",
+        "content": [
+          "9c5a67f7-45b1-49f1-a71a-79ae4b7994ae",
+          "ccb7f48b-546c-4c24-8019-50b585b76a3e"
+        ],
+        "created_time": 1697089593055,
+        "last_edited_time": 1697096367463,
+        "parent_id": "c6477b27-df3e-48a5-b92c-aa28d27d6336",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "ab8bce4b-8b49-4f08-a155-41e6c9ca5f5b": {
+      "value": {
+        "id": "ab8bce4b-8b49-4f08-a155-41e6c9ca5f5b",
+        "version": 6,
+        "type": "column",
+        "content": [
+          "87670525-2b7c-4242-8387-165c69b0f739"
+        ],
+        "created_time": 1697089593055,
+        "last_edited_time": 1697089645676,
+        "parent_id": "c6477b27-df3e-48a5-b92c-aa28d27d6336",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "9c5a67f7-45b1-49f1-a71a-79ae4b7994ae": {
+      "value": {
+        "id": "9c5a67f7-45b1-49f1-a71a-79ae4b7994ae",
+        "version": 10,
+        "type": "video",
+        "properties": {
+          "source": [
+            [
+              "https://www.youtube.com/watch?v=KFvzHp0KX14"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1280,
+          "display_source": "https://www.youtube.com/embed/KFvzHp0KX14?rel=0",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5625,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697089618692,
+        "last_edited_time": 1697089619997,
+        "parent_id": "a0a1d4bf-c0bb-4523-8f37-1d812fa2bb13",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "87670525-2b7c-4242-8387-165c69b0f739": {
+      "value": {
+        "id": "87670525-2b7c-4242-8387-165c69b0f739",
+        "version": 10,
+        "type": "video",
+        "properties": {
+          "source": [
+            [
+              "https://www.youtube.com/watch?v=yVZfEK4DSJw"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1280,
+          "display_source": "https://www.youtube.com/embed/yVZfEK4DSJw?rel=0",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.5625,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697089645675,
+        "last_edited_time": 1697089646850,
+        "parent_id": "ab8bce4b-8b49-4f08-a155-41e6c9ca5f5b",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "ccb7f48b-546c-4c24-8019-50b585b76a3e": {
+      "value": {
+        "id": "ccb7f48b-546c-4c24-8019-50b585b76a3e",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697096367461,
+        "last_edited_time": 1697096367463,
+        "parent_id": "a0a1d4bf-c0bb-4523-8f37-1d812fa2bb13",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c2906573-e9be-42f7-b737-925434244ff6": {
+      "value": {
+        "id": "c2906573-e9be-42f7-b737-925434244ff6",
+        "version": 10,
+        "type": "text",
+        "created_time": 1697096484149,
+        "last_edited_time": 1697097431196,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b25d666b-c5a4-40c7-820a-9e40002636c1": {
+      "value": {
+        "id": "b25d666b-c5a4-40c7-820a-9e40002636c1",
+        "version": 32,
+        "type": "sub_header",
+        "properties": {
+          "title": [
+            [
+              "😮"
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              " 실제 이용자들의 댓글 후기입니다."
+            ]
+          ]
+        },
+        "created_time": 1697096484149,
+        "last_edited_time": 1697097586470,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "dc860ab1-ad13-4150-af78-584518f5143d": {
+      "value": {
+        "id": "dc860ab1-ad13-4150-af78-584518f5143d",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697184421167,
+        "last_edited_time": 1697184421170,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "2f3c593f-b6c6-4d91-9e90-8a969d8a7c9b": {
+      "value": {
+        "id": "2f3c593f-b6c6-4d91-9e90-8a969d8a7c9b",
+        "version": 4,
+        "type": "column_list",
+        "content": [
+          "b281d052-5223-4cd1-8d4e-31f86aea5d65",
+          "d6f402b7-0d8e-4739-ae80-bd5f47141dda"
+        ],
+        "created_time": 1697097336294,
+        "last_edited_time": 1697097336294,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b281d052-5223-4cd1-8d4e-31f86aea5d65": {
+      "value": {
+        "id": "b281d052-5223-4cd1-8d4e-31f86aea5d65",
+        "version": 13,
+        "type": "column",
+        "content": [
+          "46a446e9-0bbe-4917-9af4-ecbaf6d37757",
+          "76d532db-6509-4586-900a-44bbd68fa985"
+        ],
+        "format": {
+          "column_ratio": 0.1875
+        },
+        "created_time": 1697097336294,
+        "last_edited_time": 1697184537335,
+        "parent_id": "2f3c593f-b6c6-4d91-9e90-8a969d8a7c9b",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "d6f402b7-0d8e-4739-ae80-bd5f47141dda": {
+      "value": {
+        "id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "version": 72,
+        "type": "column",
+        "content": [
+          "7262b613-ed6f-4e56-80ee-7bab3790b396",
+          "40fe86c3-e4ab-4e13-8f14-78ec5e158ebb",
+          "ccac0277-16b6-4d52-a26b-38a12e94f968",
+          "8aca6ab5-0445-479c-82cf-96354d4caf33",
+          "8b2e2256-5a9d-4f78-be86-274f3908d170",
+          "b2916984-ddd1-47b8-8a9c-c0d6a40b4b39",
+          "c2cbfcc1-8860-4020-9efd-475928f7642e",
+          "78b25d2f-ae92-4ee6-9e5c-187d37f31e93",
+          "5b6f2c7c-c8c8-44ed-a194-56de10681d94",
+          "6204b11d-cefa-416a-9672-a8351af0c796",
+          "3d60c51b-e906-45cf-a6e0-5b353e598cbb"
+        ],
+        "format": {
+          "column_ratio": 1.125
+        },
+        "created_time": 1697097336294,
+        "last_edited_time": 1697185943861,
+        "parent_id": "2f3c593f-b6c6-4d91-9e90-8a969d8a7c9b",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "46a446e9-0bbe-4917-9af4-ecbaf6d37757": {
+      "value": {
+        "id": "46a446e9-0bbe-4917-9af4-ecbaf6d37757",
+        "version": 3,
+        "type": "text",
+        "created_time": 1697184537333,
+        "last_edited_time": 1697184537335,
+        "parent_id": "b281d052-5223-4cd1-8d4e-31f86aea5d65",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "7262b613-ed6f-4e56-80ee-7bab3790b396": {
+      "value": {
+        "id": "7262b613-ed6f-4e56-80ee-7bab3790b396",
+        "version": 214,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "💬  미리미리 ",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "에 문의하세요~",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697097336290,
+        "last_edited_time": 1697184481955,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "76d532db-6509-4586-900a-44bbd68fa985": {
+      "value": {
+        "id": "76d532db-6509-4586-900a-44bbd68fa985",
+        "version": 11,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "44.2KB"
+            ]
+          ],
+          "title": [
+            [
+              "제목을 입력해주세요_-001 (45).png"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/b71522ac-d78e-4e02-94ec-27b3596ef7ba/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(45).png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 500,
+          "block_height": 700,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/b71522ac-d78e-4e02-94ec-27b3596ef7ba/%EC%A0%9C%EB%AA%A9%EC%9D%84_%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_(45).png",
+          "block_full_width": false,
+          "block_page_width": false,
+          "block_aspect_ratio": 1.4,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697097355943,
+        "last_edited_time": 1697097359214,
+        "parent_id": "b281d052-5223-4cd1-8d4e-31f86aea5d65",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "b71522ac-d78e-4e02-94ec-27b3596ef7ba"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "40fe86c3-e4ab-4e13-8f14-78ec5e158ebb": {
+      "value": {
+        "id": "40fe86c3-e4ab-4e13-8f14-78ec5e158ebb",
+        "version": 13,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "중국에서 🌡️온도계를 수입해서 화물은 인천창고에 도착해 있는데 통관에서 문제가 발생했었어요..😥\n미리 준비했어야하는 서류들이 있다는 걸 그때서야 알게됐죠.😩\n인력은 부족하고, 서류는 어디서 어떻게 준비해야하는지 막막하기도 했죠…🤦‍♀️\n씨에어허브에서 관세사를 연결해 주셔서 절차대로 서류를 준비할 수 있었고, 창고에도 사정 설명을 잘 해주셔서 할인 받을 수 있었습니다.\n앞으론 수입하기 전에 미리 찾아서 의논하려고요~ 최고의 원스톱 서비스 감사했어요~~👍"
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "😀",
+          "block_color": "gray_background"
+        },
+        "created_time": 1697184484299,
+        "last_edited_time": 1697184521710,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "ccac0277-16b6-4d52-a26b-38a12e94f968": {
+      "value": {
+        "id": "ccac0277-16b6-4d52-a26b-38a12e94f968",
+        "version": 20,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "💬 온라인쇼핑몰을 운영하고 있고 검색을 통해서 씨에어허브 '",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "b"
+                ],
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "'를 알게 되었어요.",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ]
+          ]
+        },
+        "created_time": 1697097390947,
+        "last_edited_time": 1697185475715,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8aca6ab5-0445-479c-82cf-96354d4caf33": {
+      "value": {
+        "id": "8aca6ab5-0445-479c-82cf-96354d4caf33",
+        "version": 69,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "이번에는 수입상품이 바뀌어서 난감했는데요.😱\n그냥 수출자한테 받은 서류를 전달했더니 바로 '"
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "'에서 연락왔어요.📱\n물어보기도 전에 수입전에 챙겨야 할 수입요건, 원산지증명서에 대해 설명해주셔서 쉽게 수입진행했네요.😆\n바쁘고 수출입에 익숙하지 않은 저에게 정말 도움이 되는 '"
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "'예요!"
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "😀",
+          "block_color": "gray_background"
+        },
+        "created_time": 1697185414695,
+        "last_edited_time": 1697185740506,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "8b2e2256-5a9d-4f78-be86-274f3908d170": {
+      "value": {
+        "id": "8b2e2256-5a9d-4f78-be86-274f3908d170",
+        "version": 254,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "💬 친절한 포워더가 있어서 좋아요!",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "🌟"
+            ]
+          ]
+        },
+        "created_time": 1697097391930,
+        "last_edited_time": 1697185870396,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "b2916984-ddd1-47b8-8a9c-c0d6a40b4b39": {
+      "value": {
+        "id": "b2916984-ddd1-47b8-8a9c-c0d6a40b4b39",
+        "version": 23,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "기존에 다른 포워더를 통해 수입을 했었는데 담당자가 바뀌면서 관리가 안되었습니다.😵‍💫\n물류비는 거의 비슷한 것 같고 저는 제가 편하게 해주는 업체가 좋은데 ㅎㅎ\n상담 먼저 받아보았는데 '"
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "' 상담사가 친절~친절~\n경력이 있으신 분 같았는데 이젠 믿고 맡기고 있습니다.😌"
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "😀",
+          "block_color": "gray_background"
+        },
+        "created_time": 1697185646398,
+        "last_edited_time": 1697186225084,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "c2cbfcc1-8860-4020-9efd-475928f7642e": {
+      "value": {
+        "id": "c2cbfcc1-8860-4020-9efd-475928f7642e",
+        "version": 246,
+        "type": "text",
+        "properties": {
+          "title": [
+            [
+              "💬 무역 초보도 알기 쉽게!!",
+              [
+                [
+                  "b"
+                ]
+              ]
+            ],
+            [
+              "🙋‍♂️"
+            ]
+          ]
+        },
+        "created_time": 1697097391930,
+        "last_edited_time": 1697186211044,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "78b25d2f-ae92-4ee6-9e5c-187d37f31e93": {
+      "value": {
+        "id": "78b25d2f-ae92-4ee6-9e5c-187d37f31e93",
+        "version": 68,
+        "type": "callout",
+        "properties": {
+          "title": [
+            [
+              "이번에 새로운 회사에 입사했는데 인수인계를 제대로 못 받았어요 😭\n위에서는 당장 뭘 내놓으라고 하는데 아직 담당화물에 대해 익숙하지 않아서 애를 먹었네요.🤔\n지인 추천으로 "
+            ],
+            [
+              "여기G",
+              [
+                [
+                  "h",
+                  "orange"
+                ]
+              ]
+            ],
+            [
+              "를 알게 되었는데 제가 진행했던 무역서류나 데이터가 남아 있어서 좋아요! \n팀장님께 드릴 보고용으로도 잘 쓰고 있네요.🤭"
+            ]
+          ]
+        },
+        "format": {
+          "page_icon": "😀",
+          "block_color": "gray_background"
+        },
+        "created_time": 1697185928135,
+        "last_edited_time": 1697186152692,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "5b6f2c7c-c8c8-44ed-a194-56de10681d94": {
+      "value": {
+        "id": "5b6f2c7c-c8c8-44ed-a194-56de10681d94",
+        "version": 8,
+        "type": "text",
+        "created_time": 1697097392698,
+        "last_edited_time": 1697097403204,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "6204b11d-cefa-416a-9672-a8351af0c796": {
+      "value": {
+        "id": "6204b11d-cefa-416a-9672-a8351af0c796",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697097392698,
+        "last_edited_time": 1697097403204,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "3d60c51b-e906-45cf-a6e0-5b353e598cbb": {
+      "value": {
+        "id": "3d60c51b-e906-45cf-a6e0-5b353e598cbb",
+        "version": 8,
+        "type": "text",
+        "created_time": 1697097392698,
+        "last_edited_time": 1697184530740,
+        "parent_id": "d6f402b7-0d8e-4739-ae80-bd5f47141dda",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e3dcedfa-2ae9-402c-8dd9-e9b59f6fb86b": {
+      "value": {
+        "id": "e3dcedfa-2ae9-402c-8dd9-e9b59f6fb86b",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697096439588,
+        "last_edited_time": 1697096440461,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "7e1ce637-3cdc-469a-b864-68c35e12aed7": {
+      "value": {
+        "id": "7e1ce637-3cdc-469a-b864-68c35e12aed7",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697096439588,
+        "last_edited_time": 1697096440461,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "9b3b271d-67f7-4304-a808-2a5cb20485ac": {
+      "value": {
+        "id": "9b3b271d-67f7-4304-a808-2a5cb20485ac",
+        "version": 6,
+        "type": "text",
+        "created_time": 1697089799751,
+        "last_edited_time": 1697089961210,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "e20bc6b4-29f3-4f1c-aa82-ec80c1347a08": {
+      "value": {
+        "id": "e20bc6b4-29f3-4f1c-aa82-ec80c1347a08",
+        "version": 11,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "177.3KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/51aee1c6-9daa-4c4d-b525-f57bd1490f1c/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1233,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/51aee1c6-9daa-4c4d-b525-f57bd1490f1c/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.6788321167883211,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697093685368,
+        "last_edited_time": 1697093688074,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "51aee1c6-9daa-4c4d-b525-f57bd1490f1c"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "0d8e29d8-7043-42c2-b18a-ca95f768ec0d": {
+      "value": {
+        "id": "0d8e29d8-7043-42c2-b18a-ca95f768ec0d",
+        "version": 14,
+        "type": "image",
+        "properties": {
+          "size": [
+            [
+              "59.7KB"
+            ]
+          ],
+          "title": [
+            [
+              "Untitled"
+            ]
+          ],
+          "source": [
+            [
+              "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/e971022b-25f2-40ec-8f27-c876c7bf447d/Untitled.png"
+            ]
+          ]
+        },
+        "format": {
+          "block_width": 1272,
+          "display_source": "https://prod-files-secure.s3.us-west-2.amazonaws.com/d6022a67-833c-484f-9dc5-d2e548974851/e971022b-25f2-40ec-8f27-c876c7bf447d/Untitled.png",
+          "block_full_width": false,
+          "block_page_width": true,
+          "block_aspect_ratio": 0.26022012578616355,
+          "block_preserve_scale": true
+        },
+        "created_time": 1697085522711,
+        "last_edited_time": 1697085530351,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "file_ids": [
+          "e971022b-25f2-40ec-8f27-c876c7bf447d"
+        ],
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    },
+    "fc35485b-3604-43b0-a466-6dc4bd6e496c": {
+      "value": {
+        "id": "fc35485b-3604-43b0-a466-6dc4bd6e496c",
+        "version": 4,
+        "type": "text",
+        "created_time": 1697085532226,
+        "last_edited_time": 1697085532227,
+        "parent_id": "5139ddef-b25b-4877-9b50-aa9c3fed0e71",
+        "parent_table": "block",
+        "alive": true,
+        "created_by_table": "notion_user",
+        "created_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "last_edited_by_table": "notion_user",
+        "last_edited_by_id": "60bbfdf1-c768-44f3-83c4-d3c10392c8d0",
+        "space_id": "d6022a67-833c-484f-9dc5-d2e548974851"
+      },
+      "role": "reader"
+    }
+  }
+}
