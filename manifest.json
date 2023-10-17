@@ -1,7 +1,18 @@
 {
+<<<<<<< Updated upstream
   "short_name": "IDEAL App",
   "name": "G-HUB Web Site",
   "icons": [
+=======
+  "short_name": "seairhub App",
+  "name": "seairhub",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+>>>>>>> Stashed changes
   ],
   "start_url": ".",
   "display": "standalone",
