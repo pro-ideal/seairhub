@@ -2,7 +2,7 @@
   "name": "notion-x-example-cra",
   "version": "6.16.1",
   "private": true,
-  "homepage": "https://pro-ideal.github.io/seairhub",
+  "homepage": "./",
   "scripts": {
     "start": "GENERATE_SOURCEMAP=false react-scripts start",
     "build": "GENERATE_SOURCEMAP=false BUILD_PATH='./docs' react-scripts build"
